@@ -1,0 +1,7 @@
+# Neovim / Lua
+*.luac
+
+# Editor / OS cruft
+.DS_Store
+*.swp
+tags
